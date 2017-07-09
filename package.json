@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/amitkas/angular-routing#readme",
   "dependencies": {
+    "@uirouter/angularjs": "^1.0.5",
     "angular": "^1.6.5",
     "bootstrap": "^3.3.7",
     "express": "^4.15.3"
